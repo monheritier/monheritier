@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <https://i.gifer.com/3AyY.gif>
+  <https://i.gifer.com/3AyY.mp4>
 </div>
 
 <div id="badges">
