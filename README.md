@@ -1,7 +1,5 @@
 ### Hi there 👋
-<div id="header" align="center">
-  <https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGI2azM4aGszenJub2xpOGQxMzV1OTVmNDl4dnRwM2RtZ2kzY20xaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif>
-</div>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">via GIPHY</a></p>
 
 <div id="badges">
   
