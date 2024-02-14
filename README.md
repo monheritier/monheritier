@@ -1,6 +1,7 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <https://i.pinimg.com/originals/0a/f2/c9/0af2c9dcb15d558c3695608bcc8c68ae.gif>
+  <![0af2c9dcb15d558c3695608bcc8c68ae](https://github.com/monheritier/monheritier/assets/100702412/8600782d-f446-4a99-8e3c-751ec740dc16)>
+
 </div>
 
 <div id="badges">
