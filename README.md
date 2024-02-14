@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <(https://github.com/monheritier/monheritier/assets/100702412/8600782d-f446-4a99-8e3c-751ec740dc16)>
+  <https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGI2azM4aGszenJub2xpOGQxMzV1OTVmNDl4dnRwM2RtZ2kzY20xaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif>
 </div>
 
 <div id="badges">
