@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Alessio
 <h2> A Passionate AI programmer From Italy! </h2>
-<img align="center" alt="GIF" src="https://tenor.com/it/view/coding-gif-18655255"/>
+<img alt="GIF" src="https://tenor.com/it/view/coding-gif-18655255"/>
 
 👨🏻‍💻 About Me 
 - 🔭 &nbsp; I’m currently learning Oracle and React for AI Development and Data processing.
